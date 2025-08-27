@@ -72,9 +72,7 @@ O dashboard permite análise detalhada por **país, ano e segmento**, com visual
 
 ## 🖼 Prints do Dashboard
 
-> *Adicione aqui imagens do seu dashboard usando a sintaxe Markdown:*
-
 ```markdown
-![Home](caminho/para/screenshot1.png)
-![Categoria](caminho/para/screenshot2.png)
-![Mapa](caminho/para/screenshot3.png)
+![vendas1_page-0001](https://github.com/user-attachments/assets/a8b5890a-fd2f-4b3d-9cf0-2fe3cc01236c)
+
+
