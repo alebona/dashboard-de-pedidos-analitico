@@ -1,0 +1,5 @@
+pergunta 1 - Qual é o valor total vendido ?
+pergunta 2 - Qauntas vendas foram realizadas por categoria de produto ?
+pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade de entrega ?
+pergunta 4 - Qual foi a média de desconto nas vendas por subcategoria de produto ?
+pergunta 5 - Quais países tiveram maior média de valor de venda ? Demonstre em um mapa.
