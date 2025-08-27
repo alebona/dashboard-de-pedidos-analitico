@@ -70,7 +70,7 @@ O dashboard permite análise detalhada por **país, ano e segmento**, com visual
 
 ---
 
-## 🖼 Prints do Dashboard
+## 🖼 Print do Dashboard
 ![pedidos](https://raw.githubusercontent.com/alebona/dashboard-de-pedidos-analitico/main/img/pedidos.jpg)
 
 
